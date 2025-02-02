@@ -1,6 +1,5 @@
-# User Authentication & Session Management(backend)
-> Here's [Frontend repo](https://github.com/zkindest/fs-gql-rq-frontend)
-## Requirements
+# Blogger site + User Authentication & Session Management(Backend)
+## Here's [Frontend repo](https://github.com/zkindest/fs-gql-rq-frontend)
 
 ## Recomended
 
