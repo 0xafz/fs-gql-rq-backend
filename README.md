@@ -1,4 +1,4 @@
-# Typescript Full stack starter (backend)
+# User Authentication & Session Management(backend)
 > Here's [Frontend repo](https://github.com/zkindest/fs-gql-rq-frontend)
 ## Requirements
 
